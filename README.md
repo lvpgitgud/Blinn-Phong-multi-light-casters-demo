@@ -1,7 +1,7 @@
 # Blinn-Phong-multi-light-casters-demo
 A multi-light casters demo with ImGui integration and model loading demo, featuring specular mapping and normal mapping.
 
-#Features
+# Features
 - Model loading
 - Directional lighting
 - Spotlight
@@ -9,14 +9,14 @@ A multi-light casters demo with ImGui integration and model loading demo, featur
 - DearImGui integration
 - Model loading
 
-#Dependencies/Third-party libraries
+# Dependencies/Third-party libraries
 - GLM
 - GLAD
 - GLFW
 - ASSIMP
 - stb_image
 
-#Demo
+# Demo
 <img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/ff513244-f905-4bef-bcf2-db5e1e36beae" />
 
 _Full interface_
@@ -27,5 +27,5 @@ _Phong Lighting_
 <img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/c6968f65-eb51-4585-9b7d-42c4deba104f" />
 _Blinn-Phong Lighting_
 
-#Installation
+# Installation
 just clone the repository, dependencies and third-party libraries should be generated on your home machine(they are still provided).

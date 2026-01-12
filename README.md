@@ -7,7 +7,6 @@ A multi-light casters demo with ImGui integration and model loading demo, featur
 - Spotlight
 - Pointlights
 - DearImGui integration
-- Model loading
 
 # Dependencies/Third-party libraries
 - GLM

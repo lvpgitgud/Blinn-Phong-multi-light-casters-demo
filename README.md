@@ -17,7 +17,7 @@ A multi-light casters demo with ImGui integration and model loading demo, featur
 - stb_image
 
 #Demo
-sd<img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/ff513244-f905-4bef-bcf2-db5e1e36beae" />
+<img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/ff513244-f905-4bef-bcf2-db5e1e36beae" />
 
 _Full interface_
 
@@ -28,5 +28,4 @@ _Phong Lighting_
 _Blinn-Phong Lighting_
 
 #Installation
-
 just clone the repository, dependencies and third-party libraries should be generated on your home machine(they are still provided).

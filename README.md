@@ -28,4 +28,5 @@ _Phong Lighting_
 _Blinn-Phong Lighting_
 
 #Installation
+
 just clone the repository, dependencies and third-party libraries should be generated on your home machine(they are still provided).

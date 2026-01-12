@@ -1,0 +1,1 @@
+//This was a placeholder for when model.h and mesh.h wasn't implemented, see Mesh.h for the texture struct
